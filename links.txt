@@ -1,5 +1,5 @@
 1:base images
-https://colab.research.google.com/drive/12y0Df03Sf2tvTOq1X8WFu-vo_bSUJp1c?authuser=1#scrollTo=KdkQJu5X611T
+https://colab.research.google.com/drive/12y0Df03Sf2tvTOq1X8WFu-vo_bSUJp1c?usp=sharing
 
 2:data augmentation
-https://colab.research.google.com/drive/174CR0S0c-cqAXnX4oGT_BZIKh9CoVRgK?authuser=1#scrollTo=Z1_M8yAQMkBe
+https://colab.research.google.com/drive/174CR0S0c-cqAXnX4oGT_BZIKh9CoVRgK?usp=sharing
