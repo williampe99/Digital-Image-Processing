@@ -1,0 +1,2 @@
+Criar um ".tar.gz" com o gitBash: abrir a partir da pasta com as imagens, e executar o comando:
+tar -czvf database.tar.gz *
