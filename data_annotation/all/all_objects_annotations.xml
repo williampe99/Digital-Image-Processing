@@ -1,0 +1,219 @@
+<?xml version="1.0" encoding="utf-8"?>
+<annotations>
+  <version>1.1</version>
+  <meta>
+    <job>
+      <id>2047015</id>
+      <size>32</size>
+      <mode>annotation</mode>
+      <overlap>0</overlap>
+      <bugtracker></bugtracker>
+      <created>2025-02-16 13:36:10.202167+00:00</created>
+      <updated>2025-02-16 13:50:51.025983+00:00</updated>
+      <subset>default</subset>
+      <start_frame>0</start_frame>
+      <stop_frame>31</stop_frame>
+      <frame_filter></frame_filter>
+      <segments>
+        <segment>
+          <id>2049454</id>
+          <start>0</start>
+          <stop>31</stop>
+          <url>https://app.cvat.ai/api/jobs/2047015</url>
+        </segment>
+      </segments>
+      <owner>
+        <username>felipe52</username>
+        <email>felipesilva.2017@alunos.utfpr.edu.br</email>
+      </owner>
+      <assignee></assignee>
+      <labels>
+        <label>
+          <name>apple</name>
+          <color>#400080</color>
+          <type>any</type>
+          <attributes>
+          </attributes>
+        </label>
+        <label>
+          <name>green_apple</name>
+          <color>#a8f1dc</color>
+          <type>any</type>
+          <attributes>
+          </attributes>
+        </label>
+        <label>
+          <name>guava</name>
+          <color>#734e10</color>
+          <type>any</type>
+          <attributes>
+          </attributes>
+        </label>
+        <label>
+          <name>mandarin</name>
+          <color>#5a18c6</color>
+          <type>any</type>
+          <attributes>
+          </attributes>
+        </label>
+        <label>
+          <name>mango</name>
+          <color>#e080e0</color>
+          <type>any</type>
+          <attributes>
+          </attributes>
+        </label>
+        <label>
+          <name>orange</name>
+          <color>#c0e0a0</color>
+          <type>any</type>
+          <attributes>
+          </attributes>
+        </label>
+        <label>
+          <name>peach</name>
+          <color>#806060</color>
+          <type>any</type>
+          <attributes>
+          </attributes>
+        </label>
+        <label>
+          <name>pear</name>
+          <color>#00e060</color>
+          <type>any</type>
+          <attributes>
+          </attributes>
+        </label>
+      </labels>
+    </job>
+    <dumped>2025-02-16 13:55:02.282000+00:00</dumped>
+  </meta>
+  <image id="0" name="0-01-V1-B.png" width="2048" height="2048">
+    <box label="apple" source="manual" occluded="0" xtl="585.77" ytl="624.69" xbr="1466.61" ybr="1534.80" z_order="0">
+    </box>
+  </image>
+  <image id="1" name="0-01-V1-W.png" width="2048" height="2048">
+    <box label="apple" source="manual" occluded="0" xtl="574.06" ytl="555.92" xbr="1459.30" ybr="1477.73" z_order="0">
+    </box>
+  </image>
+  <image id="2" name="0-01-V2-B.png" width="2048" height="2048">
+    <box label="apple" source="manual" occluded="0" xtl="634.06" ytl="621.76" xbr="1511.97" ybr="1477.73" z_order="0">
+    </box>
+  </image>
+  <image id="3" name="0-01-V2-W.png" width="2048" height="2048">
+    <box label="apple" source="manual" occluded="0" xtl="683.80" ytl="604.21" xbr="1554.40" ybr="1490.90" z_order="0">
+    </box>
+  </image>
+  <image id="4" name="1-01-V1-B.png" width="2048" height="2048">
+    <box label="green_apple" source="manual" occluded="0" xtl="636.98" ytl="582.26" xbr="1503.19" ybr="1430.91" z_order="0">
+    </box>
+  </image>
+  <image id="5" name="1-01-V1-W.png" width="2048" height="2048">
+    <box label="green_apple" source="manual" occluded="0" xtl="670.60" ytl="623.23" xbr="1523.68" ybr="1460.17" z_order="0">
+    </box>
+  </image>
+  <image id="6" name="1-01-V2-B.png" width="2048" height="2048">
+    <box label="green_apple" source="manual" occluded="0" xtl="593.09" ytl="582.26" xbr="1434.42" ybr="1471.88" z_order="0">
+    </box>
+  </image>
+  <image id="7" name="1-01-V2-W.png" width="2048" height="2048">
+    <box label="green_apple" source="manual" occluded="0" xtl="590.16" ytl="507.64" xbr="1462.22" ybr="1423.59" z_order="0">
+    </box>
+  </image>
+  <image id="8" name="2-01-V1-B.png" width="2048" height="2048">
+    <box label="guava" source="manual" occluded="0" xtl="613.57" ytl="605.67" xbr="1428.57" ybr="1411.89" z_order="0">
+    </box>
+  </image>
+  <image id="9" name="2-01-V1-W.png" width="2048" height="2048">
+    <box label="guava" source="manual" occluded="0" xtl="635.52" ytl="592.50" xbr="1459.30" ybr="1420.67" z_order="0">
+    </box>
+  </image>
+  <image id="10" name="2-01-V2-B.png" width="2048" height="2048">
+    <box label="guava" source="manual" occluded="0" xtl="623.80" ytl="557.38" xbr="1433.00" ybr="1451.40" z_order="0">
+    </box>
+  </image>
+  <image id="11" name="2-01-V2-W.png" width="2048" height="2048">
+    <box label="guava" source="manual" occluded="0" xtl="631.13" ytl="547.14" xbr="1457.83" ybr="1454.32" z_order="0">
+    </box>
+  </image>
+  <image id="12" name="3-01-V1-B.png" width="2048" height="2048">
+    <box label="mandarin" source="manual" occluded="0" xtl="726.24" ytl="640.79" xbr="1447.59" ybr="1346.04" z_order="0">
+    </box>
+  </image>
+  <image id="13" name="3-01-V1-W.png" width="2048" height="2048">
+    <box label="mandarin" source="manual" occluded="0" xtl="704.29" ytl="651.03" xbr="1411.01" ybr="1341.65" z_order="0">
+    </box>
+  </image>
+  <image id="14" name="3-01-V2-B.png" width="2048" height="2048">
+    <box label="mandarin" source="manual" occluded="0" xtl="749.65" ytl="637.86" xbr="1460.76" ybr="1354.82" z_order="0">
+    </box>
+  </image>
+  <image id="15" name="3-01-V2-W.png" width="2048" height="2048">
+    <box label="mandarin" source="manual" occluded="0" xtl="758.43" ytl="643.71" xbr="1503.19" ybr="1385.55" z_order="0">
+    </box>
+  </image>
+  <image id="16" name="4-01-V1-B.png" width="2048" height="2048">
+    <box label="mango" source="manual" occluded="0" xtl="460.93" ytl="295.95" xbr="1514.42" ybr="1676.03" z_order="0">
+    </box>
+  </image>
+  <image id="17" name="4-01-V1-W.png" width="2048" height="2048">
+    <box label="mango" source="manual" occluded="0" xtl="471.46" ytl="279.09" xbr="1621.88" ybr="1735.03" z_order="0">
+    </box>
+  </image>
+  <image id="18" name="4-01-V2-B.png" width="2048" height="2048">
+    <box label="mango" source="manual" occluded="0" xtl="395.61" ytl="342.30" xbr="1451.20" ybr="1739.24" z_order="0">
+    </box>
+  </image>
+  <image id="19" name="4-01-V2-W.png" width="2048" height="2048">
+    <box label="mango" source="manual" occluded="0" xtl="536.78" ytl="363.37" xbr="1636.63" ybr="1779.27" z_order="0">
+    </box>
+  </image>
+  <image id="20" name="5-01-V1-B.png" width="2048" height="2048">
+    <box label="orange" source="manual" occluded="0" xtl="522.03" ytl="622.53" xbr="1358.51" ybr="1480.08" z_order="0">
+    </box>
+  </image>
+  <image id="21" name="5-01-V1-W.png" width="2048" height="2048">
+    <box label="orange" source="manual" occluded="0" xtl="608.40" ytl="595.14" xbr="1459.64" ybr="1461.12" z_order="0">
+    </box>
+  </image>
+  <image id="22" name="5-01-V2-B.png" width="2048" height="2048">
+    <box label="orange" source="manual" occluded="0" xtl="644.23" ytl="595.14" xbr="1499.67" ybr="1435.83" z_order="0">
+    </box>
+  </image>
+  <image id="23" name="5-01-V2-W.png" width="2048" height="2048">
+    <box label="orange" source="manual" occluded="0" xtl="709.55" ytl="563.54" xbr="1562.88" ybr="1410.55" z_order="0">
+    </box>
+  </image>
+  <image id="24" name="6-01-V1-B.png" width="2048" height="2048">
+    <box label="peach" source="manual" occluded="0" xtl="606.16" ytl="695.17" xbr="1259.72" ybr="1367.02" z_order="0">
+    </box>
+  </image>
+  <image id="25" name="6-01-V1-W.png" width="2048" height="2048">
+    <box label="peach" source="manual" occluded="0" xtl="674.56" ytl="606.16" xbr="1308.61" ybr="1262.16" z_order="0">
+    </box>
+  </image>
+  <image id="26" name="6-01-V2-B.png" width="2048" height="2048">
+    <box label="peach" source="manual" occluded="0" xtl="627.01" ytl="664.69" xbr="1304.95" ybr="1323.12" z_order="0">
+    </box>
+  </image>
+  <image id="27" name="6-01-V2-W.png" width="2048" height="2048">
+    <box label="peach" source="manual" occluded="0" xtl="674.56" ytl="752.48" xbr="1357.38" ybr="1421.89" z_order="0">
+    </box>
+  </image>
+  <image id="28" name="7-01-V1-B.png" width="2048" height="2048">
+    <box label="pear" source="manual" occluded="0" xtl="736.77" ytl="358.68" xbr="1645.41" ybr="1508.75" z_order="0">
+    </box>
+  </image>
+  <image id="29" name="7-01-V1-W.png" width="2048" height="2048">
+    <box label="pear" source="manual" occluded="0" xtl="600.69" ytl="423.06" xbr="1513.73" ybr="1584.84" z_order="0">
+    </box>
+  </image>
+  <image id="30" name="7-01-V2-B.png" width="2048" height="2048">
+    <box label="pear" source="manual" occluded="0" xtl="455.17" ytl="463.42" xbr="1366.44" ybr="1634.56" z_order="0">
+    </box>
+  </image>
+  <image id="31" name="7-01-V2-W.png" width="2048" height="2048">
+    <box label="pear" source="manual" occluded="0" xtl="534.18" ytl="414.25" xbr="1471.79" ybr="1615.24" z_order="0">
+    </box>
+  </image>
+</annotations>
