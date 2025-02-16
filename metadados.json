@@ -1,0 +1,52 @@
+{
+	"fruits" :[
+			{
+				"name": "apple",
+				"count": 4, 
+				"description": "Images of red apples.",
+				"id": 0
+			},
+			{	
+				"name": "green_apple",
+				"count": 4,
+				"description": "Images of green apples.",
+				"id": 1
+			},
+			{
+				"name": "guava",
+				"count": 4,
+				"description": "Images of guavas.",
+				"id": 2
+			},
+			{
+				"name": "mandarin",
+				"count": 4,
+				"description": "Images of mandarins.",
+				"id": 3
+			},
+			{
+				"name": "mango",
+				"count": 4, 
+				"description": "Images of mangoes.",
+				"id": 4
+			},
+			{
+				"name": "orange",
+				"count": 4, 
+				"description": "Images of oranges.",
+				"id": 5
+			},
+			{
+				"name": "peach",
+				"count": 4, 
+				"description": "Images of peaches.",
+				"id": 6
+			},
+			{
+				"name": "pear",
+				"count": 4,
+				"description": "Images of pears.",
+				"id": 7
+			}
+		]
+  }
