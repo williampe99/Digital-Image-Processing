@@ -12,3 +12,5 @@ Performs fruit recognition through digital image processing.
 | 5        | orange      |
 | 6        | peach       |
 | 7        | pear        |
+| 8        | plum        |
+| 9        | pomegranate |
